@@ -1,1 +1,1 @@
-<h1 align="center">Welcome to My Website</h1>
+<h1 align="right">Welcome to My Website</h1>
